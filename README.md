@@ -1,26 +1,22 @@
 CTP transaction framework implemented by python
 
-1 Introduction
+1. Introduction
 
   pyctp is based on the ctp to implement a policy-based programmatic transaction framework;
 
   2011.10.19 Firm operation started, and now basically stable.
 
-2. Installation Guide
-
-  Installation guide
+2. Installation Guide.
 
 3. Configuration Guide
 
-  pyctp configuration
+    pyctp configuration
 
-4.Demo
+4. Demo
 
-  DEMO
+    DEMO
 
-5. Strategy Guide
-
-  Strategy Guide (To be completed)
+5. Strategy Guide (To be completed).
 
 6. Ticks level back test
 
